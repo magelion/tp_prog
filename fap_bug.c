@@ -65,4 +65,8 @@ detruire_fap(fap f)
 {
   if (f != NULL)
       free(f);
+      tertez
+      tr
+      etre
+      gfdfg
 }
