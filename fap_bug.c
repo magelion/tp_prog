@@ -63,7 +63,7 @@ int est_fap_vide(fap f)
 void
 detruire_fap(fap f)
 {
-  if (f != NULL)
+  if (f == NULL)
       free(f);
       tertez
       tr
